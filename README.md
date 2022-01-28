@@ -1,13 +1,13 @@
 - 👋 Olá! Sou a Suzana,
 
-- Recentemente iniciei meus estudos com Front End e estou aqui para mostrar meus projetos vocês.
+- Recentemente iniciei meus estudos Front End e estou aqui para mostrar meus projetos a vocês.
  <hr>
 
 
 <div align="center">
   <a href="https://github.com/suzana-s">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=suzana-s&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzana-s&layout=compact&langs_count=7&theme=material-palenight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=suzana-s&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzana-s&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 
 <hr>
