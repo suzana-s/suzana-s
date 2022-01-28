@@ -1,6 +1,6 @@
 - 👋 Olá! Sou a Suzana,
 
--Recentemente iniciei meus estudos com Front End e estou aqui para mostrar meus projetos vocês.
+- Recentemente iniciei meus estudos com Front End e estou aqui para mostrar meus projetos vocês.
  <hr>
 
 
