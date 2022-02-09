@@ -1,6 +1,7 @@
-- 👋 Olá! Sou a Suzana,
+- 👋 Olá, Eu sou a Suzana!
 
-- Recentemente iniciei meus estudos Front End e estou aqui para mostrar meus projetos a vocês.
+- Sou desenvolvedora front-end.
+- Estudo html, css e Java Script.
  <hr>
 
 
