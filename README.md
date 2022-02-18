@@ -1,4 +1,11 @@
-
+<p align="center">
+  <a href="#">
+    <img align="center" width="500" src="https://user-images.githubusercontent.com/98489178/154772072-ebdc21ac-0d1f-4f20-8959-51bfce083797.png"/>
+  </a>
+  <a href="#">
+    <img align="center" width="250" src="https://user-images.githubusercontent.com/98489178/154772288-2c3ed9dc-9b0e-4cd8-9779-a8eb73f6676c.gif" />
+  </a>
+</p>
 
 <h1>Sobre mim</h1>
 - 👋 Olá, Eu sou a Suzana!<br>
@@ -13,11 +20,11 @@
   <img 
        align="center"
        height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzana-s&layout=compact&langs_count=7&theme=material-palenight"/>
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzana-s&layout=compact&langs_count=7&theme=maroongold"/>
     <img
        align="center"
        height="165"
-       src="https://github-readme-stats.vercel.app/api?username=suzana-s&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+       src="https://github-readme-stats.vercel.app/api?username=suzana-s&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"
 </div>
 
 <div style="display: inline_block"><br>
