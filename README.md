@@ -11,7 +11,7 @@
 - 👋 Olá, Eu sou a Suzana!<br>
 - Sou desenvolvedora front-end.<br>
 - Estudo html, css e Java Script.<br>
-- Sou iniciante na progamação mas tenho uns projretos legais aqui 👌
+- Sou iniciante na progamação mas tenho uns projetos legais aqui 👌
 
  <hr>
 
