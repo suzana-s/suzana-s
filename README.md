@@ -1,19 +1,12 @@
+
 <p align="center">
   <a href="#">
-    <img align="center" width="500" src="https://user-images.githubusercontent.com/98489178/154772072-ebdc21ac-0d1f-4f20-8959-51bfce083797.png"/>
+    <img align="center" width="500" src="https://user-images.githubusercontent.com/98489178/178058751-dc75f8ae-900c-472d-953d-0dae417c72ed.png"/>
   </a>
   <a href="#">
-    <img align="center" width="250" src="https://user-images.githubusercontent.com/98489178/154772288-2c3ed9dc-9b0e-4cd8-9779-a8eb73f6676c.gif" />
+    <img align="center" width="300" src="https://user-images.githubusercontent.com/98489178/178058726-53d37392-08cc-4724-af67-c493790ed226.gif" />
   </a>
 </p>
-
-<h1>Sobre mim</h1>
-- 👋 Olá, Eu sou a Suzana!<br>
-- Sou desenvolvedora front-end.<br>
-- Estudo html, css e Java Script.<br>
-- Sou iniciante na progamação mas tenho uns projetos legais aqui 👌
-
- <hr>
 
 <div align="center">
   <a href="https://github.com/suzana-s">
@@ -26,6 +19,14 @@
        height="165"
        src="https://github-readme-stats.vercel.app/api?username=suzana-s&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
 </div>
+<hr>
+<h1>Sobre mim</h1>
+- 👋 Olá, Eu sou a Suzana!<br>
+- Sou desenvolvedora front-end.<br>
+- Estudo html, css, Java Script, Bootstrap, ReactJS e WordPress.<br>
+- Sou iniciante na progamação mas tenho uns projetos legais aqui 👌
+
+ <hr>
 
 <div style="display: inline_block"><br>
   <h1>Hard skills</h1>
