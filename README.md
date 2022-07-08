@@ -20,11 +20,11 @@
   <img 
        align="center"
        height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzana-s&layout=compact&langs_count=7&theme=maroongold"/>
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzana-s&layout=compact&langs_count=7&theme=moltack"/>
     <img
        align="center"
        height="165"
-       src="https://github-readme-stats.vercel.app/api?username=suzana-s&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"
+       src="https://github-readme-stats.vercel.app/api?username=suzana-s&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
 </div>
 
 <div style="display: inline_block"><br>
