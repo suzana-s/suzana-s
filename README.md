@@ -12,11 +12,11 @@
   <a href="https://github.com/suzana-s">
   <img 
        align="center"
-       height="165"
+       height="150px"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzana-s&layout=compact&langs_count=7&theme=moltack"/>
     <img
        align="center"
-       height="165"
+       height="150px"
        src="https://github-readme-stats.vercel.app/api?username=suzana-s&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
 </div>
 <hr>
