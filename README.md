@@ -1,13 +1,4 @@
 
-<p align="center">
-  <a href="#">
-    <img align="center" width="400" src="https://user-images.githubusercontent.com/98489178/178061051-2183ec0a-9cb0-4942-a75d-1ddd150d05cb.png"/>
-  </a>
-  <a href="#">
-    <img align="rigth" width="250" src="https://user-images.githubusercontent.com/98489178/178058726-53d37392-08cc-4724-af67-c493790ed226.gif" />
-  </a>
-</p>
-
 <div align="center">
   <a href="https://github.com/suzana-s">
   <img 
